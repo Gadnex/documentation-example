@@ -1,6 +1,6 @@
 # StoreMan
 
-<span style="color:red">StoreMan is not a real computer system and it is not intended to develop the StoreMan system. The goal of this project is to show an example of how a system can be documented using Markdown documents and Draw.io / Diagrams.net diagrams.</span>
+> StoreMan is not a real computer system and it is not intended to develop the StoreMan system. The goal of this project is to show an example of how a system can be documented using Markdown documents and Draw.io / Diagrams.net diagrams.
 
 ## System Overview
 StoreMan is a computer system designed for the registration and storage of property items in order to keep track of the items in terms of their current location. This location will either be a storage location where it is currently stored or a system user who checked the item out of storage for some purpose.
