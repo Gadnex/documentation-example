@@ -3,7 +3,7 @@ The documentation of the StoreMan system is organised in a locical fashion with 
 
 The following sections decribe the top level documentation topics.
 
-## Functional View
+## [Functional View](./FunctionalView/README.md)
 The functional view describes the system requirements to specify what the system does from a user perspective.
 
 It was decided to use a User Story driven approach to ensure that whatever functionality the system provides will provide real value to the users of the system.

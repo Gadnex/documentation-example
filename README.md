@@ -19,5 +19,5 @@ The diagrambelow provides a visual overview of the StoreMan process.
 
 ![Process Overview](./documentation/process-overview.drawio.svg)
 
-## Documentation
+## [Documentation](./documentation/README.md)
 The documentation of the StoreMan systemcan be viewed [here](./documentation/README.md).
