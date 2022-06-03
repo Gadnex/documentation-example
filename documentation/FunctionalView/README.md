@@ -10,4 +10,13 @@ The actors describe the users and other non human things like other system outsi
 
 A full description of the StoreMan actors can be found [here](./Actors/README.md)
 
-## Stories
+## Epics
+The use cases of the system are devided into a few logical epics that group together related use cases.
+### [Registration](./Epics/Registration/README.md)
+The registration epic groups together all the use cases related to the registration of property items.
+### [Storage](./Epics/Storage/README.md)
+The storage epic groups together all the use cases related to the storage of property items in a storage location.
+### [Request](./Epics/Request/README.md)
+The request epic groups together all the use cases related to the request of property items, including the hand over of property items and the recording of request results.
+### [Disposal](./Epics/Disposal/README.md)
+The disposal epic groups together all the use cases related to the disposal of property items.
